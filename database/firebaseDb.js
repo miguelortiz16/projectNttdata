@@ -1,12 +1,12 @@
 import { initializeApp } from 'firebase/app';
 
 const firebaseConfig = {
-    apiKey: "AIzaSyDtEH-Ac16lW-tNlX7zuCUnayP4ekEgCkA",
-    authDomain: "real-states-f0232.firebaseapp.com",
-    projectId: "real-states-f0232",
-    storageBucket: "real-states-f0232.appspot.com",
-    messagingSenderId: "1019017862869",
-    appId: "1:1019017862869:web:26bcc8bcd56af9d3230c5c"
+    apiKey: "AIzaSyB9cnURKnuDBLVVRAozf6tSp6YylGz7iTA",
+    authDomain: "projectrealestate-f2828.firebaseapp.com",
+    projectId: "projectrealestate-f2828",
+    storageBucket: "projectrealestate-f2828.appspot.com",
+    messagingSenderId: "295530188263",
+    appId: "1:295530188263:web:41365d6e360a77cfb6c142"
 };
 
 const app = initializeApp(firebaseConfig);
